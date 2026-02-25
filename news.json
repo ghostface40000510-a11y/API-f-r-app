@@ -29,6 +29,6 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "Home",
-    "imageUrl": "R.drawable.olymps"    
+    "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
   }
 ]
