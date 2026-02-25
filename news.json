@@ -16,19 +16,19 @@
     "imageHTTP" : ""    
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "GSL-News",
     "subtitle": "Eilmeldung",
     "description": "Hie kommen News",
-    "category": "GSL 2. Liga",
+    "category": "GSL",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
   {
-    "id": 3,
-    "title": "GSL-News",
+    "id": 1,
+    "title": "BNR-News",
     "subtitle": "Eilmeldung",
     "description": "Hier kommen News",
-    "category": "GSL 1. Liga",
+    "category": "BNR",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
   }
 ]
