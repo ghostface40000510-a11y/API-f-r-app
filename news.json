@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "STREAMGO APP",
-    "subtitle": "Eilmeldung",
-    "description": "TEST BY MARCO",
+    "title": "Wir Begrüßen alle App user",
+    "subtitle": "Information",
+    "description": "Willkommen in der StreamGo App!",
     "category": "Home",
     "imageUrl": ""    
   },
@@ -20,7 +20,7 @@
     "title": "Hallo",
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
-    "category": "Home",
+    "category": "BNR",
     "imageUrl": ""    
   }
 ]
