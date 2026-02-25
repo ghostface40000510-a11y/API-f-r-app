@@ -4,6 +4,13 @@
     "title": "STREAMGO APP",
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
+    "category": "Home",
+    "imageUrl": ""
+    
+    "id":2,
+    "title": "STREAMGO APP",
+    "subtitle": "Eilmeldung",
+    "description": "TEST BY MARCO",
     "category": "GSL",
     "imageUrl": ""
   }
