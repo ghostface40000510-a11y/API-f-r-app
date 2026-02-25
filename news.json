@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Wir Begrüßen dich Tim als Ersten Tester",
+    "title": "Wir Begrüßen dich Super als Ersten Tester",
     "subtitle": "Servus",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
@@ -9,9 +9,9 @@
   },
   {
     "id": 1,
-    "title": "Tester",
+    "title": "Tester text",
     "subtitle": "Servus",
-    "description": "Willkommen in der StreamGo App!",
+    "description": "dieser Text ist ein test!",
     "category": "Home",
     "imageHTTP" : ""    
   },
@@ -20,7 +20,7 @@
     "title": "GSL-News",
     "subtitle": "Eilmeldung",
     "description": "Hie kommen News",
-    "category": "GSL",
+    "category": "GSL 1. Liga",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
   {
