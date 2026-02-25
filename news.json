@@ -14,5 +14,13 @@
     "description": "TEST BY MARCO",
     "category": "GSL",
     "imageUrl": ""
+  },
+  {
+    "id": 1,
+    "title": "STREAMGO APP",
+    "subtitle": "Eilmeldung",
+    "description": "TEST BY MARCO",
+    "category": "BNR",
+    "imageUrl": ""    
   }
 ]
