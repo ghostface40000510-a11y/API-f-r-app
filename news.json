@@ -5,7 +5,7 @@
     "subtitle": "Information",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
-    "imageHTTP": "res/drawable/oylmps.png"    
+    "imageHTTP": "oylmps.png"    
   },
   {
     "id": 1,
