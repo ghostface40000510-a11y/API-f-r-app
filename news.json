@@ -8,6 +8,14 @@
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
   },
   {
+    "id": 1,
+    "title": "Tester",
+    "subtitle": "Servus",
+    "description": "Willkommen in der StreamGo App!",
+    "category": "Home",
+    "imageHTTP" : ""    
+  },
+  {
     "id": 2,
     "title": "GSL-News",
     "subtitle": "Eilmeldung",
