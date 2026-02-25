@@ -22,5 +22,13 @@
     "description": "TEST BY MARCO",
     "category": "BNR",
     "imageUrl": ""    
+  },
+  {
+    "id": 1,
+    "title": "Hallo",
+    "subtitle": "Eilmeldung",
+    "description": "TEST BY MARCO",
+    "category": "Home",
+    "imageUrl": "R.drawable.arena"    
   }
 ]
