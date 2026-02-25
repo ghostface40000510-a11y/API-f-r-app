@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Begrüßen alle App User",
+    "title": "Wir Begrüßen alle App user",
     "subtitle": "Information",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
-    "imageHTTP": "oylmps.png"    
+    "imageUrl": "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "GSL",
-    "imageHTTP": ""
+    "imageUrl": ""
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "BNR",
-    "imageHTTP": ""    
+    "imageUrl": ""    
   },
   {
     "id": 1,
@@ -29,6 +29,6 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "Home",
-    "imageHTTP": "file:///C:/Users/chris/Pictures/Screenshots/Screenshot%202026-02-22%20192201.png"    
+    "imageUrl": "R.drawable.olymps"    
   }
 ]
