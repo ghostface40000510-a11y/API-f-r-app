@@ -5,7 +5,7 @@
     "subtitle": "Information",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
-    "imageUrl": "R.drawable.olymps"    
+    "imageHTTP": "R.drawable.olymps"    
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "GSL",
-    "imageUrl": ""
+    "imageHTTP": ""
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "BNR",
-    "imageUrl": ""    
+    "imageHTTP": ""    
   },
   {
     "id": 1,
@@ -29,6 +29,6 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "Home",
-    "imageUrl": "file:///C:/Users/chris/Pictures/Screenshots/Screenshot%202026-02-22%20192201.png"    
+    "imageHTTP": "file:///C:/Users/chris/Pictures/Screenshots/Screenshot%202026-02-22%20192201.png"    
   }
 ]
