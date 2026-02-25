@@ -5,7 +5,7 @@
     "subtitle": "Information",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
-    "imageUrl": ""    
+    "imageUrl": "res://drawable/stadion"    
   },
   {
     "id": 1,
