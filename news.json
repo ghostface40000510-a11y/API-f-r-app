@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Wir Begrüßen alle App user",
-    "subtitle": "Information",
+    "title": "Wir Begrüßen dich Tim als Ersten Tester",
+    "subtitle": "Servus",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
@@ -21,14 +21,6 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "BNR",
-    "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
-  },
-  {
-    "id": 1,
-    "title": "Hallo DD",
-    "subtitle": "Eilmeldung",
-    "description": "TEST BY MARCO",
-    "category": "Home",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
   }
 ]
