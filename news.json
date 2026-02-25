@@ -5,7 +5,7 @@
     "subtitle": "Information",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
-    "imageUrl": "R.drawable.arena"    
+    "imageUrl": "R.drawable.olymps"    
   },
   {
     "id": 1,
@@ -29,6 +29,6 @@
     "subtitle": "Eilmeldung",
     "description": "TEST BY MARCO",
     "category": "Home",
-    "imageUrl": "R.drawable.arena"    
+    "imageUrl": "R.drawable.olymps"    
   }
 ]
