@@ -9,17 +9,17 @@
   },
   {
     "id": 1,
-    "title": "STREAMGO APP",
+    "title": "GSL-News",
     "subtitle": "Eilmeldung",
-    "description": "TEST BY MARCO",
+    "description": "Hier kommen News",
     "category": "GSL",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
   {
     "id": 1,
-    "title": "Hallo",
+    "title": "BNR-News",
     "subtitle": "Eilmeldung",
-    "description": "TEST BY MARCO",
+    "description": "Hier kommen News",
     "category": "BNR",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/oylmps.png?raw=true"    
   }
