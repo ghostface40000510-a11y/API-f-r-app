@@ -1,19 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Wir Begrüßen dich Super als Ersten Tester",
+    "title": "Wir Begrüßen die Ersten Tester",
     "subtitle": "Servus",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/Photoroom_20260210_132919.jpeg?raw=true"    
-  },
-  {
-    "id": 1,
-    "title": "Tester text",
-    "subtitle": "Servus",
-    "description": "dieser Text ist ein test!",
-    "category": "Home",
-    "imageHTTP" : ""    
   },
   {
     "id": 1,
