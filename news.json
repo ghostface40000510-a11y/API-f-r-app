@@ -9,6 +9,14 @@
   },
   {
     "id": 1,
+    "title": "Hallo Manuel",
+    "subtitle": "Servus",
+    "description": "ich hoffe die App gefällt dir!",
+    "category": "Home",
+    "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/Photoroom_20260210_132919.jpeg?raw=true"    
+  },
+  {
+    "id": 1,
     "title": "GSL-News",
     "subtitle": "Eilmeldung",
     "description": "Hie kommen News",
