@@ -2,21 +2,11 @@
   {
     "id": 1,
     "competition": "GSL 1. Liga",
-    "teamHome": "Eintracht Frankfurt",
-    "teamAway": "Bayern München",
-    "scoreHome": "4",
-    "scoreAway": "1",
-    "status": "FL",
+    "teamHome": "Werder Bremen",
+    "teamAway": "Borussia Dortmund",
+    "scoreHome": "",
+    "scoreAway": "",
+    "status": "So. 8. März",
     "time": "20:30"
   },
-  {
-    "id": 2,
-    "competition": "GSL 2. Liga",
-    "teamHome": "Hamburger SV",
-    "teamAway": "St. Pauli",
-    "scoreHome": "0",
-    "scoreAway": "0",
-    "status": "|",
-    "time": "20:30"
-  }
 ]
