@@ -1,13 +1,22 @@
 [
   {
-  "id": 1,
-  "teamHome": "Holstein Kiel",
-  "logoHome": "https://raw.githubusercontent.com/.../kiel_logo.png",
-  "teamAway": "Bayern München",
-  "logoAway": "https://raw.githubusercontent.com/.../bayern_logo.png",
-  "scoreHome": "2",
-  "scoreAway": "1",
-  "status": "65'",
-  "competition": "GSL 1. Liga"
- }
+    "id": 1,
+    "competition": "GSL 1. Liga",
+    "teamHome": "Holstein Kiel",
+    "teamAway": "Bayern München",
+    "scoreHome": "2",
+    "scoreAway": "1",
+    "status": "65'",
+    "time": "20:30"
+  },
+  {
+    "id": 2,
+    "competition": "GSL 2. Liga",
+    "teamHome": "Hamburger SV",
+    "teamAway": "St. Pauli",
+    "scoreHome": "0",
+    "scoreAway": "0",
+    "status": "12'",
+    "time": "20:30"
+  }
 ]
