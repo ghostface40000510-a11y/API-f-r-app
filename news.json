@@ -46,5 +46,14 @@
     "description": "Hier kommen News",
     "category": "BNR",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/20260122160646.png?raw=true"    
+  },
+  [  {
+    "id": 100,
+    "title": "Holstein Kiel",
+    "subtitle": "2 : 1",
+    "description": "Bayern München",
+    "category": "Livespiele",
+    "imageHTTP": ""
   }
+]
 ]
