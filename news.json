@@ -1,19 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Wir Begrüßen die Ersten Tester",
+    "title": "Herzlich Willkommen in der StreamGo App",
     "subtitle": "StreamGo App",
     "description": "Willkommen in der StreamGo App!",
     "category": "Home",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/Photoroom_20260210_132919.jpeg?raw=true"    
-  },
-  {
-    "id": 1,
-    "title": "Das Datum steht Fest!",
-    "subtitle": "Die App Kommt",
-    "description": "Die App wird am 06.03.2026 veröffentlicht",
-    "category": "Home",
-    "imageHTTP" : "https://raw.githubusercontent.com/ghostface40000510-a11y/API-f-r-app/refs/heads/main/Blue_and_White_Modern_Soccer_Full_Time_Instagram_Post.png"    
   },
   {
     "id": 1,
@@ -25,9 +17,9 @@
   },
   {
     "id": 1,
-    "title": "GSL-News",
+    "title": "Schluss mit Liga 2 vor Start?",
     "subtitle": "Eilmeldung",
-    "description": "Hie kommen News",
+    "description": "Laut aktuell infos kann es Passieren das Liga 2 nicht kommt und dafür eine größere 1. Liga",
     "category": "GSL 2. Liga",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
