@@ -5,9 +5,9 @@
     "teamHome": "Werder
 Bremen",
     "teamAway": "Borussia Dortmund",
-    "scoreHome": "",
-    "scoreAway": "",
-    "status": "starting soon",
+    "scoreHome": "0",
+    "scoreAway": "1",
+    "status": "|.",
     "time": "20:00"
   }
 ]
