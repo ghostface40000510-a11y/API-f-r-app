@@ -1,4 +1,4 @@
-t[
+gt[
   {
     "id": 1,
     "title": "Herzlich Willkommen in der StreamGo App",
@@ -30,5 +30,5 @@ t[
     "description": "Beim spiel des FCB gegen STP kam es zur kuriosen Szene das der Schitsrichter gewechselt wurde.",
     "category": "GSL",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
-  },
+  }
 ]
