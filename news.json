@@ -9,19 +9,11 @@
   },
   {
     "id": 1,
-    "title": "SVW VS BVB",
-    "subtitle": "Wiederholungsspiel",
-    "description": "Bremen gibt gas und verteilt die Mercy Rule! ",
+    "title": "FCB VS STP",
+    "subtitle": "Testspiel",
+    "description": "Bayern hat aus einem knappen spiel ein 7:3 gemacht starke leistung! ",
     "category": "GSL 1. Liga",
     "imageHTTP": "https://raw.githubusercontent.com/ghostface40000510-a11y/API-f-r-app/refs/heads/main/Screenshot_2026-03-08-19-13-08-839_com.roblox.client-edit.jpg"
-  },
-  {
-    "id": 1,
-    "title": "SVW VS BVB",
-    "subtitle": "Wiederholungsspiel",
-    "description": "mal schauen wer das wiederholungsspiel dür sich entscheiden kann nur live auf StreamGo",
-    "category": "GSL 1. Liga",
-    "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
  {
     "id": 1,
@@ -33,9 +25,9 @@
   },
   {
     "id": 1,
-    "title": "GSL-News",
-    "subtitle": "Eilmeldung",
-    "description": "Hie kommen News",
+    "title": "Schiri ausgewechselt?",
+    "subtitle": "Story der Woche",
+    "description": "Beim spiel des FCB gegen STP kam es zur kuriosen Szene das der Schitsrichter gewechselt wurde.",
     "category": "GSL",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
