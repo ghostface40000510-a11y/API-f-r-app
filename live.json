@@ -10,7 +10,7 @@
     "time": "20:00"
   },
   {
-    "id": 1,
+    "id": 2,
     "competition": "GSL 1. Liga",
     "teamHome": "Kickers Offenbach",
     "teamAway": "Eintracht Frankfurt",
@@ -20,7 +20,7 @@
     "time": "20:00"
   },  
   {
-    "id": 1,
+    "id": 3,
     "competition": "GSL 1. Liga",
     "teamHome": "Werder
 Bremen",
@@ -31,7 +31,7 @@ Bremen",
     "time": "20:00"
   },  
  {
-    "id": 1,
+    "id": 4,
     "competition": "GSL 2. Liga",
     "teamHome": "Dynamo Dresden",
     "teamAway": "Hannover 96",
@@ -41,7 +41,7 @@ Bremen",
     "time": "20:00"
   },
  {
-    "id": 1,
+    "id": 5,
     "competition": "GSL 2. Liga",
     "teamHome": "FC Madgeburg",
     "teamAway": "Hansa Rostock",
