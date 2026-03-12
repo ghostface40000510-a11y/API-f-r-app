@@ -30,5 +30,13 @@
     "description": "Beim spiel des FCB gegen STP kam es zur kuriosen Szene das der Schitsrichter gewechselt wurde.",
     "category": "GSL",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
+  },
+  {
+    "id": 1,
+    "title": "dein Titel (groß)",
+    "subtitle": "untertitel ( klein)",
+    "description": "Fließtext .",
+    "category": "Home, GSL, GSL 1. Liga oder GSL 2. Liga ",
+    "imageHTTP" : ""    
   }
 ]
