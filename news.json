@@ -9,25 +9,25 @@
   },
   {
     "id": 1,
-    "title": "FCB VS STP",
-    "subtitle": "Testspiel",
-    "description": "Bayern hat aus einem knappen spiel ein 7:3 gemacht starke leistung! ",
+    "title": "Ligastart!",
+    "subtitle": "Meldung",
+    "description": "Das erste Spiel der Saison 2 wir am 23.3 sein.",
     "category": "GSL 1. Liga",
     "imageHTTP": "https://raw.githubusercontent.com/ghostface40000510-a11y/API-f-r-app/refs/heads/main/Screenshot_2026-03-08-19-13-08-839_com.roblox.client-edit.jpg"
   },
  {
     "id": 1,
-    "title": "Schluss mit Liga 2 vor Start?",
-    "subtitle": "Eilmeldung",
-    "description": "Laut aktuell infos kann es Passieren das Liga 2 nicht kommt und dafür eine größere 1. Liga",
+    "title": "Ligastart 2. Liga",
+    "subtitle": "Meldung",
+    "description": "Der Start der Liga 2 wird am 24.3 sein.",
     "category": "GSL 2. Liga",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   },
   {
     "id": 1,
-    "title": "Schiri ausgewechselt?",
-    "subtitle": "Story der Woche",
-    "description": "Beim spiel des FCB gegen STP kam es zur kuriosen Szene das der Schitsrichter gewechselt wurde.",
+    "title": "Bald geht es los!",
+    "subtitle": "Es ist soweit",
+    "description": "Der Start der 1. und 2. Liga sind bekannt gegen und wir sind bereit und heiß.",
     "category": "GSL",
     "imageHTTP" : "https://github.com/ghostface40000510-a11y/API-f-r-app/blob/main/arena.png?raw=true"    
   }
