@@ -2,11 +2,11 @@
   {
     "id": 1,
     "competition": "GSL Testspiel",
-    "teamHome": "FC Schalke",
+    "teamHome": "FC Magdeburg",
     "teamAway": "FC Bayern",
-    "scoreHome": "5",
-    "scoreAway": "2",
-    "status": "ES",
+    "scoreHome": "",
+    "scoreAway": "",
+    "status": "20:00",
     "time": "18:45"
   },
   {
