@@ -2,11 +2,11 @@
   {
     "id": 1,
     "competition": "GSL Testspiel",
-    "teamHome": "FC Magdeburg",
+    "teamHome": "Hertha BSC",
     "teamAway": "FC Bayern",
-    "scoreHome": "7",
-    "scoreAway": "9",
-    "status": "||.",
+    "scoreHome": "",
+    "scoreAway": "",
+    "status": "20:00",
     "time": "18:45"
   },
   {
