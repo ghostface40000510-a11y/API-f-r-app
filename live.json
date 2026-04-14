@@ -1,52 +1,12 @@
 [
   {
     "id": 1,
-    "competition": "GSL Testspiel",
-    "teamHome": "Hertha BSC",
-    "teamAway": "FC Bayern",
+    "competition": " ",
+    "teamHome": "",
+    "teamAway": "",
     "scoreHome": "",
     "scoreAway": "",
-    "status": "20:00",
-    "time": "18:45"
-  },
-  {
-    "id": 2,
-    "competition": "GSL 1. Liga",
-    "teamHome": "Kickers Offenbach",
-    "teamAway": "Eintracht Frankfurt",
-    "scoreHome": "",
-    "scoreAway": "",
-    "status": "23.3  18:30",
-    "time": "18:30"
-  },  
-  {
-    "id": 3,
-    "competition": "GSL 1. Liga",
-    "teamHome": "Werder Bremen",
-    "teamAway": "Werder Bremen",
-    "scoreHome": "",
-    "scoreAway": "",
-    "status": "23.3  20:00",
-    "time": "20:00"
-  },  
- {
-    "id": 4,
-    "competition": "GSL 2. Liga",
-    "teamHome": "Dynamo Dresden",
-    "teamAway": "Hannover 96",
-    "scoreHome": "",
-    "scoreAway": "",
-    "status": "24.3  18:30",
-    "time": "18:30"
-  },
- {
-    "id": 5,
-    "competition": "GSL 2. Liga",
-    "teamHome": "FC Madgeburg",
-    "teamAway": "Hansa Rostock",
-    "scoreHome": "",
-    "scoreAway": "",
-    "status": "24.3  20:00",
-    "time": "20:00"
+    "status": "",
+    "time": ""
   }
 ]
